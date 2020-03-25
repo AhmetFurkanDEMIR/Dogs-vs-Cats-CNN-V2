@@ -20,8 +20,26 @@
 * Biz ImageNet (1.4 milyon etiketli resim ve 1000 farklı sınıf.) veri setini kullanarak eğitilmiş bir modeli (VGG16) kullanacağız.
 * Modelden öznitelik çıkarımı: öznitelik çıkarımı, daha önce ağ tarafından öğrenilen gösterimler ile yeni örnekler için ilginç niteliklerin çıkarılmasıdır. Bu nitelikler en baştan eğitilen yeni sınıflandırıcıda kullanılır.
 * Kullanacağımız model VGG16, bu model keras.aplications modülünü içe aktararak içerisinde bulunan resim sınıflandırma modellerini kullanabilirsiniz.
-* 
+* Kullanabileceğiniz diğer öneğitimli modeller:
+ 
+ 1-) Xception
+ 
+ 2-) VGG16
+ 
+ 3-) VGG19
+ 
+ 4-) ResNet, ResNetV2, ResNeXt
+ 
+ 5-) InceptionV3
+ 
+ 6-) InceptionResNetV2
 
+ 7-) MobileNet
+ 
+ 8-) DenseNet
+ 
+ 9-) NASNet
+ 
 
 
 
