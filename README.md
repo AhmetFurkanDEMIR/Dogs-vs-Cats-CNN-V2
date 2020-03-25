@@ -22,23 +22,23 @@
 * Kullanacağımız model VGG16, bu model keras.aplications modülünü içe aktararak içerisinde bulunan resim sınıflandırma modellerini kullanabilirsiniz.
 * Kullanabileceğiniz diğer öneğitimli modeller:
  
-       1-) Xception
+      1-) Xception
  
- 2-) VGG16
+      2-) VGG16
  
- 3-) VGG19
+      3-) VGG19
  
- 4-) ResNet, ResNetV2, ResNeXt
+      4-) ResNet, ResNetV2, ResNeXt
  
- 5-) InceptionV3
+      5-) InceptionV3
  
- 6-) InceptionResNetV2
+      6-) InceptionResNetV2
 
- 7-) MobileNet
+      7-) MobileNet
  
- 8-) DenseNet
+      8-) DenseNet
  
- 9-) NASNet
+      9-) NASNet
  
 
 
