@@ -62,3 +62,6 @@
 
 * Kullandığımız VGG16 model ile eğitim ve doğrulama sonuçları 
 
+![ön_cnn](https://user-images.githubusercontent.com/54184905/77533457-f22f4780-6ea7-11ea-9186-50593a836407.png)
+
+    resimde de gördüğünüz gibi çıkan sonuçlar şimdiki yaptığımız örneklerden daha iyi. 
