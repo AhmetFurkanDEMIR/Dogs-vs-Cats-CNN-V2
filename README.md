@@ -8,7 +8,9 @@
 * dogs-vs-cats-CNN adlı klasörde kendi oluşturduğumuz Evrişimli Sinir Ağı modelimizi kullandık
 * 1. sürümden farklı olarak Keras 'ta bulunan modül ile Veri seti çeşitlendirme yaparak elimizdeki veri sayısını arttırdık:
 
+![Screenshot_2020-03-25_14-31-26](https://user-images.githubusercontent.com/54184905/77532193-6f0cf200-6ea5-11ea-982d-6b11dfc01c6a.png)
 
+    Daha fazla bilgi için Keras documentation = https://keras.io/preprocessing/image/
 
 * Evrişimli Sinir Ağımıza iletim sönümü ekledik. Bu sayede aşırı uydurmanın önüne geçtik.
 
