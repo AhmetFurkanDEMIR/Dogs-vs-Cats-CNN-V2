@@ -76,3 +76,8 @@
 
 ![Screenshot_2020-03-25_14-00-50](https://user-images.githubusercontent.com/54184905/77536544-8d76eb80-6ead-11ea-9bc7-febef9ba3e6c.png)
 
+* Test resimleri için tüm katmanların tüm filitreleri
+
+![Screenshot_2020-03-25_14-01-08](https://user-images.githubusercontent.com/54184905/77536823-0aa26080-6eae-11ea-93b7-25f6288817f5.png)
+
+
