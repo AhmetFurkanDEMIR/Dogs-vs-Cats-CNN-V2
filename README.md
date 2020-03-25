@@ -60,5 +60,5 @@
     * Bu haliyle sadece eklediğimiz iki Dense katmanının ağırlıkları öğrenebilecek. 
     buda toplam dört ağırlık tensörü eder. katman başına ikitane (ağırlık, önyargı vektörü)
 
-
+* Kullandığımız VGG16 model ile eğitim ve doğrulama sonuçları 
 
