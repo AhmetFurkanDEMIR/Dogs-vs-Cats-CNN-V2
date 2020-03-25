@@ -6,7 +6,18 @@
 # dogs-vs-cats-CNN
 
 * dogs-vs-cats-CNN adlı klasörde kendi oluşturduğumuz Evrişimli Sinir Ağı modelimizi kullandık
-* 1. sürümden farklı olarak Keras 'ta bulunan modül ile Veri seti çeşitlendirme yaparak elimizdeki veri sayısını arttırdık.
+* 1. sürümden farklı olarak Keras 'ta bulunan modül ile Veri seti çeşitlendirme yaparak elimizdeki veri sayısını arttırdık:
+
+      train_datagen = ImageDataGenerator(
+           rescale=1./255,
+           rotation_range=40,
+           width_shift_range=0.2,
+           height_shift_range=0.2,
+           shear_range=0.2,
+           zoom_range=0.2,
+           horizontal_flip=True,
+           fill_mode='nearest')
+
 * Evrişimli Sinir Ağımıza iletim sönümü ekledik. Bu sayede aşırı uydurmanın önüne geçtik.
 
 ![Screenshot_2020-03-24_23-22-50](https://user-images.githubusercontent.com/54184905/77530444-67981980-6ea2-11ea-8a8f-03ee1c470e04.png)
@@ -40,6 +51,8 @@
  
       9-) NASNet
  
+* VGG16 evrişim tabanı oluşturmak:
+
 
 
 
