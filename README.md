@@ -44,6 +44,8 @@
       8-) DenseNet
  
       9-) NASNet
+      
+      Daha fazla bilgi için Keras documentation = https://keras.io/applications/
  
 * VGG16 dondurulmuş evrişim tabanı oluşturmak:
 
