@@ -8,7 +8,7 @@
 * dogs-vs-cats-CNN adlı klasörde kendi oluşturduğumuz Evrişimli Sinir Ağı modelimizi kullandık
 * 1. sürümden farklı olarak Keras 'ta bulunan modül ile Veri seti çeşitlendirme yaparak elimizdeki veri sayısını arttırdık:
 
-      train_datagen = ImageDataGenerator(
+     train_datagen = ImageDataGenerator(
            rescale=1./255,
            rotation_range=40,
            width_shift_range=0.2,
