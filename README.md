@@ -68,3 +68,9 @@
 
 * Ara çıktılar
 
+![Screenshot_2020-03-25_14-00-57](https://user-images.githubusercontent.com/54184905/77536542-8c45be80-6ead-11ea-8dda-5943db2912f9.png)
+
+
+
+![Screenshot_2020-03-25_14-00-50](https://user-images.githubusercontent.com/54184905/77536544-8d76eb80-6ead-11ea-9bc7-febef9ba3e6c.png)
+
