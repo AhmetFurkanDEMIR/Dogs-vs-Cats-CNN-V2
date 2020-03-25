@@ -14,6 +14,7 @@
     Daha fazla bilgi için Keras documentation = https://keras.io/preprocessing/image/
 
 * Evrişimli Sinir Ağımıza iletim sönümü ekledik. Bu sayede aşırı uydurmanın önüne geçtik.
+(keras.models.model.add(layers.Dropout(0.5)))
 
 ![Screenshot_2020-03-24_23-22-50](https://user-images.githubusercontent.com/54184905/77530444-67981980-6ea2-11ea-8a8f-03ee1c470e04.png)
 
