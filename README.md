@@ -22,7 +22,7 @@
 * Kullanacağımız model VGG16, bu model keras.aplications modülünü içe aktararak içerisinde bulunan resim sınıflandırma modellerini kullanabilirsiniz.
 * Kullanabileceğiniz diğer öneğitimli modeller:
  
- 1-) Xception
+       1-) Xception
  
  2-) VGG16
  
