@@ -45,8 +45,12 @@
  
       9-) NASNet
  
-* VGG16 evrişim tabanı oluşturmak:
+* VGG16 dondurulmuş evrişim tabanı oluşturmak:
 
+![Screenshot_2020-03-25_14-35-29](https://user-images.githubusercontent.com/54184905/77532468-f65a6580-6ea5-11ea-939e-5409a73193af.png)
+
+    Dondurulmuş dememizin sebebi VGG16 evrişimli tabanı 14714688 adet parametreye sahiptir. bu da çok fazla işlem kapasitesi demektir.
+    Bu haliyle sadece eklediğimiz iki Dense katmanının ağırlıkları öğrenebilecek. buda toplam dört ağırlık tensörü eder. katman başına ikitane (ağırlık, önyargı vektörü)
 
 
 
