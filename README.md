@@ -1,3 +1,8 @@
+![licence](https://img.shields.io/badge/Keras-V2.3.1-red)
+![licence](https://img.shields.io/badge/Tensorflow-V2.0-yellow)
+![licence](https://img.shields.io/badge/Ahmet%20Furkan-DEM%C4%B0R-blue)
+![licence](https://img.shields.io/badge/demir-ai-blueviolet)
+
 # Dogs-vs-Cats-CNN-V2 
 
 * Bu sürümde Veri seti çeşitlendirme, iletim sönümü ekleme ve Öneğitimli Evrişimli Sinir Ağı kullanarak modelimizin başarısını arttırıp kaybını düşültük.
